@@ -12,13 +12,16 @@ body{
     flex-direction: column;
     gap: 20px;
     background-color: hsl(0, 0%, 95%);
-    font-family: 'Rubik', sans-serif;
+    font-family: 'Big Shoulders Display', cursive;
     font-weight: 400;
     font-size: 15px;
+    
 }
 h1{
     color: hsl(0, 0%, 95%);  
     font-weight: 700;
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 2rem;
 }
 
 p{
